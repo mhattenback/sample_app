@@ -60,6 +60,7 @@ describe User do
 			end
 		end
 	end
+	#notes notse noets
 	describe "when email address is already taken" do
 		before do
 			user_with_same_email = @user.dup
